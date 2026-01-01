@@ -1,5 +1,5 @@
 #import "@preview/polylux:0.3.1": *
-#import "@preview/fontawesome:0.1.0": *
+#import "@preview/fontawesome:0.1.1": *
 
 #import themes.metropolis: *
 
